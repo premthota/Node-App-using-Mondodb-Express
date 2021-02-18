@@ -1,0 +1,3 @@
+del node_modules
+npm install -g npm@latest
+npm i core-util-is
